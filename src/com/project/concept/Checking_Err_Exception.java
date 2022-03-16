@@ -6,6 +6,17 @@ public class Checking_Err_Exception {
 
     public static void main(String[] args)
     {
+
+//        int a = 21;
+//
+//        if (a>18)
+//        {
+//            throw new ArithmeticException("Not Eligible to Vote !! ");
+//        }
+//        else
+//        {
+//
+//        }
         try
         {
 //            int x = 10;
